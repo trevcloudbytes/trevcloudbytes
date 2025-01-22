@@ -1,4 +1,4 @@
-<h1>Helloo, I'm Trevor, an <a href="https://linkedin.com/in/trevcloudbytes">IT Professional</a>☺</h1>
+<h1>Helloo😎, I'm Trevor, an <a href="https://linkedin.com/in/trevcloudbytes">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
